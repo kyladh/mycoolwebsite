@@ -1,0 +1,138 @@
+
+body{
+    background-color: #F9F4F4;
+    resize: both;
+}
+
+.tableaupadding{
+    padding-left: 215px;
+    padding-right: 215px;
+    padding-top: 50px;
+    padding-bottom: 170px;
+}
+
+.box7 {
+    background-color: white;
+}
+
+.link {
+    font-size: 17px;
+    font-style: italic;
+    font-style: normal;
+}
+
+.footerpadding{
+    padding-top: 50px;
+}
+
+.caption{
+    text-align: left;
+    font-weight: bolder;
+
+}
+
+.text-center {
+    text-align: center !important;
+}
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+}
+ol, ul, dl {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+ol, ul {
+    padding-left: 2rem;
+}
+
+.footerstyle{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: #F5ECEC;
+}
+
+.captionstyle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    color: #686566;
+    padding-left: 215px;
+    padding-top: 5px;
+}
+
+.pleasework{
+    padding-bottom: 500px;
+}
+
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: white;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.tlink{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-style: italic;
+}
+
+.textheader{
+    color: rgb(245,235,236);
+    font-size: small;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navhaha{
+    text-align: right;
+    border-radius: 0rem;
+    color:  #fff;
+    background-color: #686566;
+    border-color: #dee2e6 #dee2e6 #fff;
+    border: 25px solid transparent;
+    display: inline-block;
+    overflow-x: auto;
+}
+
+.twonavhaha{
+    text-align: left;
+    border-radius: 0rem;
+    color:  #fff;
+    background-color: #686566;
+    border-color: #dee2e6 #dee2e6 #fff;
+    border: 25px solid transparent;
+
+}
+
+.middlenavhaha{
+    text-align: center;
+    border-radius: 0rem;
+    color:  #fff;
+    background-color: #686566;
+    border-color: #dee2e6 #dee2e6 #fff;
+    border: 25px solid transparent;
+
+}
+
+.navbackground{ 
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.center{
+display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}

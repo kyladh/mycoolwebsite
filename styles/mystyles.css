@@ -1,0 +1,73 @@
+
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.custom1{
+    background-color: beige;
+
+}
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingSpace{
+    padding: 55px;
+}
+.transparent{
+    background-color: rgba(247, 242, 242, 0.74);
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bolditalic{
+    font:900;
+}
+
+.transparentbox{
+    background-color: rgba(105, 101, 102, 0.22);
+}
+
+.c1 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.0;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+}
+p {
+    margin: 0;
+    color: #000000;
+    font-size: 11pt;
+    font-family: "Calibri";
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.deleteline{
+    border-top: 0px solid #dee2e6 !important;
+}
+
+.footerstyle{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: white
+}
+
+.textpadding{
+    padding-top: 20px;
+}
+
